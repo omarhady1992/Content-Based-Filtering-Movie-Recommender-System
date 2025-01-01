@@ -1,0 +1,8 @@
+"pandas"
+"numpy"
+"nltk"
+"scikit-learn"
+'flask'
+'flask-restful'
+'flask-cors'
+'requests'
