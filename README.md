@@ -23,18 +23,6 @@ This project is a machine learning-based recommender system that uses content-ba
     python app.py
     ```
 
-## Content-Based Filtering
-
-Content-based filtering is a recommendation technique that uses the features of items to recommend similar items to users. It relies on the idea that if a user likes an item, they will also like items that are similar to it.
-
-## Data
-
-The dataset used in this project contains information about 5000 movies from the tmdb kaggle dataset their features. This data is essential for training the content-based filtering model.
-
-## Code Explanation
-
-- `main.py`: This script handles the downloading, preprocessing of data, and creation of the recommendation model.
-- `app.py`: This script starts the application, allowing users to interact with the recommender system.
 
 ## Project Structure
 
